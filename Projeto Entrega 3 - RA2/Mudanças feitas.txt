@@ -1,0 +1,21 @@
+Na modelagem conceitual
+
+	Atributos e-mail e telefone da entidade Funcionário viraram atributos normais (não havia necessidade de serem multivalorados)
+	Foram retiradas as entidades Galpão e Estoque
+	Foi adicionado o atributo quantidade a entidade Produto
+	Foi retirado a relação entre as tabelas Compra e Usuário (pela ambiguidade)
+	Foi retirado a entidade Senha
+	Foi adicionado o atributo senha a entidade Usuário
+	Foi retirado a entidade fraca Operação
+	Foi adicionado a entidade associativa Registro
+	Foi adicionado o atributo data de desvínculo à relação entre as tabelas Funcionário e Cargo de Funcionário
+
+
+Na modelagem lógica
+	
+	Modelagem foi refeita
+
+
+Na modelagem física
+
+	Modelagem foi refeita
